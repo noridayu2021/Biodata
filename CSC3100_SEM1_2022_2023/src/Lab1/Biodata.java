@@ -8,7 +8,7 @@ public class Biodata {
 		
 		System.out.println("Hai everyone...");
 		System.out.println("Noridayu Manshor");
-		System.out.println("Bukit Mahkota")
+		System.out.println("Bukit Mahkota  Kajang")
 
 	}
 
