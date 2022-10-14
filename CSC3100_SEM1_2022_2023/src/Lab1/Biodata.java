@@ -10,6 +10,7 @@ public class Biodata {
 		System.out.println("Noridayu Manshor");
 		System.out.println("Bukit Mahkota");
 		System.out.println("Nilai N9");
+		System.out.println("............")
 
 	}
 
