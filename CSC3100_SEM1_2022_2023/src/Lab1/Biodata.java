@@ -7,6 +7,8 @@ public class Biodata {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hai everyone...");
+		System.out.println("Noridayu Manshor");
+		System.out.println("Bukit Mahkota")
 
 	}
 
